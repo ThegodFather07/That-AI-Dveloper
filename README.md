@@ -10,3 +10,4 @@ watch tutorial on youtube'
 ### Object
 
 1. watch concepts before doing changes
+2. Do it practically
