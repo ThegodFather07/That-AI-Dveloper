@@ -6,3 +6,7 @@ Learn New Concepts Everyday.
 watch tutorial on youtube'
 
 1. open html
+
+### Object
+
+1. watch concepts before doing changes
